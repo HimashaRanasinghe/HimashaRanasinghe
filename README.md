@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @HimashaRanasinghe
-- 👀 I’m interested in managing, analyzing
-- 🌱 I’m currently learning Busienss Information Systems degree
-- 💞️ I’m looking to collaborate as a busienss analyst, project manager
-- 📫 How to reach me , himashasranasinghe@gmail.com
-- ⚡ Fun fact: Love adventure and thrillers
+- 👀 I’m interested in managing, analyzing workflows
+- 🌱 I’m currently learning Busienss Information Systems degree at IIT
+- 💞️ I’m looking to collaborate as a QA engineer, project manager
+- 📫 How to reach me -> himashasranasinghe@gmail.com
+- ⚡ Fun fact: Love adventures and thrillers
 
 <!---
 HimashaRanasinghe/HimashaRanasinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
